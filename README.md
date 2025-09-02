@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
 ```python
-Languages:   C++ | Python | JavaScript
+Languages:   C++ | Python | Java | JavaScript
 Web:         HTML, CSS, React (learning)
 Tools:       Git, GitHub, VS Code, Linux
