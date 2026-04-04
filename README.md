@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ```python
 Languages:   C++ | Python | Java | JavaScript
-Web:         HTML, CSS, React (learning)
+Web:         HTML, CSS, MERN
 Tools:       Git, GitHub, VS Code, Linux
