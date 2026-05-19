@@ -1,40 +1,90 @@
-
-
-<!--
-**Sanskritiraj02/Sanskritiraj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Sanskriti Raj Rathor</h1>
 
+<h3 align="center">🚀 B.Tech CSE Student | 💻 Aspiring Software Engineer | 📊 DSA Enthusiast</h3>
+
+---
+
+## 🌟 About Me
+- 🎓 3rd Year B.Tech CSE Student  
+- 🌱 Currently learning **Data Structures & Algorithms + System Design (Basics)**  
+- 💻 Exploring **Full Stack Development & Machine Learning**  
+- 🔧 Actively building projects & improving problem-solving skills  
+- ⚡ Fun fact: I love solving real-world problems using code  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📚 Core Subjects
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- DBMS  
+
+---
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📈 Currently Working On
+- 🔥 Strengthening DSA (Striver A2Z Sheet)  
+- 🌐 Building Full Stack Projects  
+- 🤝 Open Source Contributions  
+
+---
+
+## 📌 Featured Projects
+- 🎬 **Movie Recommendation System**  
+- 🌐 **Alumni Networking Platform (AlumSync)**  
+- 📊 More projects coming soon...  
+
+---
+
+## 🧠 DSA Progress
+- Solving problems on LeetCode  
+- Following Striver A2Z Sheet  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  🌱 B.Tech CSE Student | 🚀 Aspiring Open Source Contributor | 💻 Web Dev & AI Enthusiast | 🌌 DSA Enthusiast
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskritiraj02&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskritiraj02&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🎓 I'm currently in my **3rd year of B.Tech CSE**
-- 🌱 Currently learning **Open Source Contribution** 
-- 💻 Exploring **Web Development**, **Python**, **C++**, and **Machine Learning**
-- 📈 Actively building my GitHub and working on beginner-friendly projects
-- ✨ Fun fact: I enjoy solving real-life problems with code!
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sanskriti-raj-rathor-902ab22b7/
+- 📧 Email: sanskritirajrathor@gmail.com 
 
 ---
 
-### 🛠️ Tech Stack
-
-```python
-Languages:   C++ | Python | Java | JavaScript
-Web:         HTML, CSS, MERN
-Tools:       Git, GitHub, VS Code, Linux
+⭐️ From [SanskritiRaj02](https://github.com/your-username)
