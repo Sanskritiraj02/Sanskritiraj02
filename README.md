@@ -87,4 +87,4 @@
 
 ---
 
-⭐️ From [SanskritiRaj02](https://github.com/your-username)
+⭐️ From [Sanskritiraj02](https://github.com/Sanskritiraj02)
