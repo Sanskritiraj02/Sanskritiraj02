@@ -83,7 +83,8 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sanskriti-raj-rathor-902ab22b7/
-- 📧 Email: sanskritirajrathor@gmail.com 
+- 📧 Email: sanskritirajrathor@gmail.com
+- 🔗 LeetCode: https://leetcode.com/u/Sanskriti_Raj02/
 
 ---
 
