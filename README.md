@@ -72,14 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskritiraj02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskritiraj02&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sanskriti-raj-rathor-902ab22b7/
