@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🎓 3rd Year B.Tech CSE Student  
-- 🌱 Currently learning **Data Structures & Algorithms + System Design (Basics)**  
+- 🌱 Currently learning **Data Structures & Algorithms + System Design**  
 - 💻 Exploring **Full Stack Development & Machine Learning**  
 - 🔧 Actively building projects & improving problem-solving skills  
 - ⚡ Fun fact: I love solving real-world problems using code  
@@ -34,10 +34,10 @@
 ---
 
 ### 📚 Core Subjects
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- DBMS  
+- Data Structures & Algorithms  (In Progress...)
+- Operating Systems  :white_check_mark:
+- Computer Networks  :white_check_mark:
+- DBMS  :white_check_mark:
 
 ---
 
