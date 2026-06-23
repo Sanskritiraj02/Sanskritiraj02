@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 3rd Year B.Tech CSE Student  
+- 🎓 4th Year B.Tech CSE Student  
 - 🌱 Currently learning **Data Structures & Algorithms + System Design**  
 - 💻 Exploring **Full Stack Development & Machine Learning**  
 - 🔧 Actively building projects & improving problem-solving skills  
