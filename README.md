@@ -55,7 +55,7 @@
 ## 📈 Currently Working On
 - 🔥 Strengthening DSA (Striver A2Z Sheet)  
 - 🌐 Building Full Stack Projects  
-- 🤝 Open Source Contributions  
+- 🤝 Open Source Contributions 
 
 ---
 
