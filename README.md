@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms + System Design**  
 - 💻 Exploring **Full Stack Development & Machine Learning**  
 - 🔧 Actively building projects & improving problem-solving skills  
-- ⚡ Fun fact: I love solving real-world problems using code  
+- ⚡ Fun fact: I love solving real-world problems using code
 
 ---
 
