@@ -67,7 +67,7 @@
 ---
 
 ## 🧠 DSA Progress
-- Solving problems on LeetCode  
+- Solving problems on Leetcode 
 - Following Striver A2Z Sheet
 - Following Company-based Sheet
 
