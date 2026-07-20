@@ -61,7 +61,8 @@
 
 ## 📌 Featured Projects
 - 🎬 **Movie Recommendation System**  
-- 🌐 **Alumni Networking Platform (AlumSync)**  
+- 🌐 **Alumni Networking Platform (AlumSync)**
+- 💼 **Portfolio
 - 📊 More projects coming soon...
 
 ---
